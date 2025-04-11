@@ -20,7 +20,4 @@
 3. Run data pipeline: `python data_pipeline.py`
 4. Launch dashboard: `streamlit run app.py`
 
-## Links
-- [Video Presentation](YouTube/Drive link)
-- [Dataset (Google Drive)](link) *(if applicable)*
-- [Deployed App](link) *(if applicable)*
+
